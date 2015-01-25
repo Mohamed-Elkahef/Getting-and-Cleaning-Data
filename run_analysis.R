@@ -1,6 +1,7 @@
 ### set the Files location 
 ## here we set the loaction of the data files 
 
+
 flocation<-"D:\\Training videoes\\The Data Scientist\\Tools\\UCI HAR Dataset"
 
 ### Load Data
